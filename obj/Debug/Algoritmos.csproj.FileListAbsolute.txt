@@ -1,0 +1,8 @@
+C:\Users\Danie\source\repos\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe.config
+C:\Users\Danie\source\repos\Algoritmos\Algoritmos\bin\Debug\Algoritmos.exe
+C:\Users\Danie\source\repos\Algoritmos\Algoritmos\bin\Debug\Algoritmos.pdb
+C:\Users\Danie\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.AssemblyReference.cache
+C:\Users\Danie\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danie\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\Danie\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.exe
+C:\Users\Danie\source\repos\Algoritmos\Algoritmos\obj\Debug\Algoritmos.pdb
